@@ -1,12 +1,37 @@
-👋 Hey there! I'm Achraf Karkaih, a passionate software engineering student with a deep love for the MERN stack (MongoDB, Express.js, React, Node.js). 🚀
+# Achraf Karkaih - Software Engineering Student 🚀
 
-👨‍💻 I'm on a journey to master web development and create awesome projects using the power of MERN.
+Welcome to my GitHub profile! I'm Achraf Karkaih, a passionate software engineering student on a journey to master web and mobile development, especially with the MERN stack and React Native.
 
-🌟 What I'm into:
-- Front-end: React, Redux, HTML, CSS, and responsive design.
-- Back-end: Node.js, Express.js, MongoDB, RESTful APIs.
-- Version Control: Git and GitHub.
-- Agile methodology and collaborative teamwork.
+## What I'm Into:
+
+- **Front-end Development:**
+  - React
+  - Redux
+  - HTML
+  - CSS
+  - Responsive Design
+
+- **Back-end Development:**
+  - Node.js
+  - Express.js
+  - MongoDB
+  - RESTful APIs
+
+- **Mobile Development:**
+  - React Native
+
+- **Version Control:**
+  - Git
+  - GitHub
+
+- **Methodology:**
+  - Agile
+  - Collaborative Teamwork
+    
+I'm enthusiastic about creating awesome projects and exploring the possibilities of web and mobile technologies.
+Whether it's building user-friendly interfaces, designing efficient databases, or crafting mobile apps, I'm always up for the challenge.
+
+Feel free to explore my repositories to see some of the cool projects I've been working on.
 
 <!---
 A-karkaih/A-karkaih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
