@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm Achraf Karkaih, a passionate software engineer
   - Redux
   - HTML
   - CSS
+  - TailwindCSS
   - Responsive Design
 
 - **Back-end Development:**
