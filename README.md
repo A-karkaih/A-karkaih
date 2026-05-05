@@ -9,8 +9,14 @@ Welcome to my GitHub profile! I'm Achraf Karkaih, a passionate software engineer
   - Redux
   - HTML
   - CSS
+  - Java Script
   - TailwindCSS
   - Responsive Design
+  - Framer Motion
+
+-**Forms & Validation**
+- React Hook Form
+- Zod
 
 - **Back-end Development:**
   - Node.js
@@ -18,8 +24,6 @@ Welcome to my GitHub profile! I'm Achraf Karkaih, a passionate software engineer
   - MongoDB
   - RESTful APIs
 
-- **Mobile Development:**
-  - React Native
 
 - **Version Control:**
   - Git
